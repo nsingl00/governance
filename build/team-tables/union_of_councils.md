@@ -13,7 +13,6 @@
 | Jason Grout | [`@jasongrout`](https://github.com/jasongrout) |
 | Jeremy Tuloup | [`@jtpio`](https://github.com/jtpio) |
 | Johan Mabille | [`@johanmabille`](https://github.com/johanmabille) |
-| Jupyter Security Representative |  |
 | Lahari Chowtoori | [`@LahariChowtoori`](https://github.com/LahariChowtoori) |
 | Martha Cryan | [`@marthacryan`](https://github.com/marthacryan) |
 | Martin Renou | [`@martinRenou`](https://github.com/martinRenou) |
@@ -30,4 +29,5 @@
 | Vidar Fauske | [`@vidartf`](https://github.com/vidartf) |
 | William Stein | [`@williamstein`](https://github.com/williamstein) |
 | Yaniv Schahar | [`@YDawn`](https://github.com/YDawn) |
+| Yann Pellegrini | [`@Yann-P`](https://github.com/Yann-P) |
 | Zach Sailer | [`@Zsailer`](https://github.com/Zsailer) |
